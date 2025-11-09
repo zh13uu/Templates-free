@@ -2,9 +2,27 @@
 
 > **A powerful, lightweight PowerShell template - completely FREE for everyone!**
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)](https://github.com/PowerShell/PowerShell)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![GitHub Stars](https://img.shields.io/github/stars/zh13uu/templates-free?style=social)](https://github.com/zh13uu/templates-free/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/zh13uu/templates-free?style=social)](https://github.com/zh13uu/templates-free/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/zh13uu/templates-free)](https://github.com/zh13uu/templates-free/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/zh13uu/templates-free)](https://github.com/zh13uu/templates-free/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zh13uu/templates-free/graphs/commit-activity)
+[![GitHub last commit](https://img.shields.io/github/last-commit/zh13uu/templates-free)](https://github.com/zh13uu/templates-free/commits/main)
+[![Downloads](https://img.shields.io/github/downloads/zh13uu/templates-free/total)](https://github.com/zh13uu/templates-free/releases)
+[![Contributors](https://img.shields.io/github/contributors/zh13uu/templates-free)](https://github.com/zh13uu/templates-free/graphs/contributors)
+[![Code Size](https://img.shields.io/github/languages/code-size/zh13uu/templates-free)](https://github.com/zh13uu/templates-free)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/zh13uu/templates-free)
+[![Made with PowerShell](https://img.shields.io/badge/Made%20with-PowerShell-blue?logo=powershell)](https://github.com/PowerShell/PowerShell)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zh13uu.templates-free)
+[![GitHub watchers](https://img.shields.io/github/watchers/zh13uu/templates-free?style=social)](https://github.com/zh13uu/templates-free/watchers)
+
+</div>
 
 ---
 
